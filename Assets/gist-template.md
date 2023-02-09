@@ -124,8 +124,6 @@ Character classes are just one of many features of regular expressions, and ther
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
-
 Created by Jeff Gilbert
 
 Any questions or comments please go to my [GitHub profile](https://github.com/jcgilbert70) or reach out via email at jcgilbert70@gmail.com.
